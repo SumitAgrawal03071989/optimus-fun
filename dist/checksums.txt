@@ -1,0 +1,6 @@
+37d15e9fc19797b690d3f55ff4cc845a01f1fb115f656d20a4393c48a7114b04  optimus-fun_v0.0.0-next_linux_amd64.tar.gz
+643260dbea51ccade74ae15a75d08f3f48f0ab35045a643abb5b64d4ec0c67c4  optimus-fun_v0.0.0-next_windows_arm64.zip
+67d4fd162a3d38c29be2249d7d1f6631aec195c4432cff2be2c0b26e483c1ac9  optimus-fun_v0.0.0-next_windows_amd64.zip
+721b0eafa238e97c86650c5e72c7c181922ced0955b86ee2887697c96eaad317  optimus-fun_v0.0.0-next_darwin_arm64.tar.gz
+a144548a91ffeaf531af7c24490f8c59707086d3a90b840be13f553aea55fb6e  optimus-fun_v0.0.0-next_linux_arm64.tar.gz
+bfdb97e93df99ec78d666c141e38edc5bc64b2ba2b037f643b809d4caaefe334  optimus-fun_v0.0.0-next_darwin_amd64.tar.gz
